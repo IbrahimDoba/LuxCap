@@ -1,5 +1,4 @@
 
-LuxCap
 LuxCap is an online course website that I developed using React.
 
 Project Overview
